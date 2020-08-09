@@ -1,7 +1,12 @@
+<img align="right" width="400" height="400" src="https://github.com/luizromariofilho/luizromariofilho/blob/master/smiles.jpg">
+
 # Welcome! 👋
+
 ## I'm Luiz Romário Filho! Let me present a little about myself :D
 
 Full-Stack focused in Ruby on Rails | Software engineer
+
+Co-founder [@Protegon](https://protegon.com.br/)
 
 MBA in Strategic Business Management
 
