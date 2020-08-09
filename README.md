@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome! 👋
+## I'm Luiz Romário Filho! Let me present a little about myself :D
+
+Full-Stack focused in Ruby on Rails | Software engineer
+
+MBA in Strategic Business Management
+
+Enthusiastic for BI and Data Analysis, Startups and Business
+
 
 <!--
 **luizromariofilho/luizromariofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
