@@ -20,7 +20,7 @@ Enthusiastic for BI and Data Analysis, Startups and Business
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5577991343281&text=Hello!)](https://api.whatsapp.com/send?phone=+5577991343281&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizromariofilho@gmail.com)](mailto:luizromariofilho@gmail.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luizromariofilho)](https://github.com/luizromariofilho/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luizromariofilho&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/luizromariofilho/github-readme-stats)
 
 - Thanks for visiting. 
  
