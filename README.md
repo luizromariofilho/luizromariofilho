@@ -8,6 +8,8 @@ Full-Stack focused in Ruby on Rails | Software engineer
 
 Co-founder [@Protegon](https://protegon.com.br/)
 
+Backend Developer [@autoseg](https://autoseg.com)
+
 MBA in Strategic Business Management
 
 Enthusiastic for BI and Data Analysis, Startups and Business
@@ -17,7 +19,9 @@ Enthusiastic for BI and Data Analysis, Startups and Business
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizromariofilho)](https://www.linkedin.com/in/luizromariofilho)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5577991343281&text=Hello!)](https://api.whatsapp.com/send?phone=+5577991343281&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizromariofilho@gmail.com)](mailto:luizromariofilho@gmail.com)
- 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luizromariofilho)](https://github.com/luizromariofilho/github-readme-stats)
+
 - Thanks for visiting. 
  
 - Enjoy it!! o/
