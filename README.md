@@ -24,11 +24,12 @@ Enthusiastic for BI and Data Analysis, Startups and Business
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizromariofilho&hide=html&layout=compact" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=luizromariofilho&count_private=true&show_icons=true&theme=gruvbox" /></td>
-  </tr>  
-    <tr>
-</td>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizromariofilho&hide=html&show_icons=true&layout=compact" />
+      </td>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=luizromariofilho&count_private=true&layout=compact&show_icons=true" />
+      </td>
   </tr>  
 </table>
 </center>
