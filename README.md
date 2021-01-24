@@ -8,8 +8,6 @@ Full-Stack focused in Ruby on Rails | Software engineer
 
 Co-founder [@Protegon](https://protegon.com.br/)
 
-Backend Developer [@autoseg](https://autoseg.com)
-
 MBA in Strategic Business Management
 
 Enthusiastic for BI and Data Analysis, Startups and Business
