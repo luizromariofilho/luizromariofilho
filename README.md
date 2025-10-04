@@ -4,20 +4,27 @@
 
 ## I'm Luiz Romário Filho! Let me present a little about myself :D
 
-Full-Stack focused in Ruby on Rails | Software engineer
+Full-Stack focused in Ruby on Rails and Java | Software engineer | 2x AWS Certified (Cloud Practitioner and Solutions Architect)
 
 Co-founder [@Protegon](https://protegon.com.br/)
 
 MBA in Strategic Business Management
 
-Enthusiastic for BI and Data Analysis, Startups and Business
-
 ## About me 
+
+I have been working in web development since 2011. I have co-founded a startup and
+contributed to diverse projects across Brazil and the United States. I focus on collaborative
+work, delivering results, and leveraging data metrics to maximize user value. I hold two AWS
+certifications (AWS Certified Cloud Practitioner and AWS Certified Solutions Architect –
+Associate) and am passionate about technology, continually exploring emerging trends and
+innovations. Currently, I'm studying GenAI and preparing for new certifications in this area.
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizromariofilho)](https://github.com/luizromariofilho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizromariofilho)](https://www.linkedin.com/in/luizromariofilho)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5577991343281&text=Hello!)](https://api.whatsapp.com/send?phone=+5577991343281&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizromariofilho@gmail.com)](mailto:luizromariofilho@gmail.com)
 
+<!--
 - ⚡ My contributions:
 <center>
 <table>
@@ -32,6 +39,7 @@ Enthusiastic for BI and Data Analysis, Startups and Business
 </table>
 </center>
 
+-->
 - Thanks for visiting. 
  
 - Enjoy it!! o/
