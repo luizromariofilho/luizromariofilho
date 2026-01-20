@@ -12,12 +12,13 @@ MBA in Strategic Business Management
 
 ## About me 
 
-I have been working in web development since 2011. I have co-founded a startup and
-contributed to diverse projects across Brazil and the United States. I focus on collaborative
-work, delivering results, and leveraging data metrics to maximize user value. I hold two AWS
-certifications (AWS Certified Cloud Practitioner and AWS Certified Solutions Architect –
-Associate) and am passionate about technology, continually exploring emerging trends and
-innovations. Currently, I'm studying GenAI and preparing for new certifications in this area.
+I have been working in web development since 2011. I co-founded a startup, served as CTO
+at a Fintech, and contributed to diverse projects across Brazil and the United States. I focus
+on collaborative work, delivering results, and leveraging data metrics to maximize user value.
+I hold three AWS certifications (AWS Certified Cloud Practitioner, AWS Certified Solutions
+Architect Associate, and AWS Certified AI Practitioner). I am passionate about technology,
+system design, high availability, scalability, and performance, and I continually explore
+emerging trends and innovations, with a current focus on system design and GenAI.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizromariofilho)](https://github.com/luizromariofilho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizromariofilho)](https://www.linkedin.com/in/luizromariofilho)
