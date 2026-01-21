@@ -4,7 +4,7 @@
 
 ## I'm Luiz Romário Filho! Let me present a little about myself :D
 
-Full-Stack focused in Ruby on Rails and Java | Software engineer | 2x AWS Certified (Cloud Practitioner and Solutions Architect)
+Full-Stack focused in Ruby on Rails and Java | Software engineer | 3x AWS Certified (Cloud Practitioner, AI Practitioner, and Solutions Architect)
 
 Co-founder [@Protegon](https://protegon.com.br/)
 
